@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
+
+- [x] *Do GitHub Exercises*
+- [ ] *Listen my Music*
+- [ ] *Study and Focus*
